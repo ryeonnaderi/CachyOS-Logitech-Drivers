@@ -1,2 +1,2 @@
 # CachyOS-Logitech-Drivers
-Connect Logitech to CachyOS
+Connect Logitech mouse to CachyOS Linux distro
